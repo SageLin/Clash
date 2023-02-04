@@ -1,0 +1,7 @@
+# Speedtest.net
+DOMAIN-SUFFIX, www.speedtest.net
+
+# cloudflare
+DOMAIN, speed.cloudflare.com
+DOMAIN, www.cloudflare.com
+DOMAIN, api.mapbox.com
